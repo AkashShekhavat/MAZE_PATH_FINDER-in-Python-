@@ -1,0 +1,2 @@
+# MAZE_PATH_FINDER-in-Python-
+We will be going to  build a path finding visualizer tool to visualize the  A* algorithm as it runs. This A* algorithm is  informed search algorithm i.e. before performing  the search we have the knowledge related to the  problem that knowledge is called as heuristic ,in  this we have set the starting point and the goal .To  implement this we will going to use the python  programing language and the pre build modules of  python.
